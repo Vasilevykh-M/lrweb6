@@ -1,0 +1,14 @@
+.BookList{
+    display: grid;
+    grid-template-columns: 1fr;
+}
+.BookList * {
+    background-color: azure;
+    align-self: center;
+    justify-self: center;
+    color:blueviolet
+}
+
+.BookList *:host{
+    color: bisque;
+}

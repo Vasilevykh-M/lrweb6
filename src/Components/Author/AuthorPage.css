@@ -1,0 +1,15 @@
+.div1{
+    display: grid;
+    grid-template-columns: 1fr;
+}
+.div1 * {
+    align-self: center;
+}
+.div2{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+.div2 * {
+    align-self: center;
+    justify-self: center;
+}

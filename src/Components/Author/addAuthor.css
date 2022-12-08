@@ -1,0 +1,16 @@
+.main{
+    display: grid;
+    grid-template-columns: 1fr;
+}
+.main *{
+    align-self: center;
+    justify-self: center;
+}
+.ch{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.ch*{
+    align-self: center;
+    justify-self: center;
+}

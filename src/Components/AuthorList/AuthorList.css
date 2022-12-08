@@ -1,0 +1,9 @@
+.ListAuthors{
+    display: grid;
+    grid-template-columns: 1fr;
+}
+.ListAuthors * {
+    align-self: center;
+    justify-self: center;
+    color:blueviolet
+}

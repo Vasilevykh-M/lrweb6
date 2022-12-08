@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`1 1`] = `
+<difDiv
+  text="text"
+/>
+`;
+
+exports[`2 1`] = `
+<difH1
+  text="text"
+/>
+`;
+
+exports[`3 1`] = `
+<difH2
+  text="text"
+/>
+`;

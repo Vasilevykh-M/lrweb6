@@ -1,0 +1,9 @@
+.head {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.head *{
+    align-self: center;
+    justify-self: center;
+    color:blueviolet
+}
